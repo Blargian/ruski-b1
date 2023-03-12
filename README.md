@@ -1,2 +1,3 @@
-# ruski-b1
+# Russian Language - B1
+
 Personal Russian language learning repository 

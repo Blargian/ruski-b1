@@ -18,9 +18,9 @@ Personal Russian language learning repository which contains textbooks and notes
 
 [Formation of adverbs / Образование деепричастий](/notes/other_topics/revision_2023_03_15.md)
 
-[gerunds / депричастия](/notes/other_topics/revision_2023_03_21.md)
+[Gerunds / депричастия](/notes/other_topics/revision_2023_03_21.md)
 
-[expressions of concessionary relations (хотя, несмотря на, несмотря на то что)](/notes/other_topics/revision_2023_03_15.md)
+[Expressions of concessionary relations (хотя, несмотря на, несмотря на то что)](/notes/other_topics/revision_2023_03_15.md)
 
 ## Additional 
 

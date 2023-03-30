@@ -1,4 +1,6 @@
-# Russian Language - B1
+# Russian Language - B1 
+
+![nestingdolls2](https://user-images.githubusercontent.com/41984034/228809962-148f4725-de81-4542-902a-bd6091480092.png)   
 
 Personal Russian language learning repository which contains textbooks and notes made during lessons with a teacher. 
 

@@ -1,9 +1,9 @@
 # The instrumental case / Творительный падеж 
 
-## index 
+| Page | Description |
+| --- | --- |
+| [2023-02-28 lesson](./revision_2023_03_10.md) | Негативные конструкции с ни- и не- |
+| [2023-03-10 lesson](./revision_2023_03_10.md) | Ни и Не - exercises |
 
-### Lesson notes 
 
-[2023_02_28 (Негативные конструкции с ни- и не-)](./revision_2023_03_10.md)
 
-[2023_03_10 (Ни и Не - exercises)](./revision_2023_03_10.md)

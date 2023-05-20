@@ -8,7 +8,7 @@ Personal Russian language learning repository which contains textbooks and notes
 
 ### Cases 
 
-[Accusative case / Винительный падеж](/notes/instrumental_case/instrumental_index.md)
+[Accusative case / Винительный падеж](/notes/accusative_case/accusative_index.md)
 
 [Dative case / Дательный падеж](/notes/dative_case/dative_index.md)
 

@@ -12,6 +12,7 @@ Personal Russian language learning repository which contains textbooks and notes
 |[Accusative case / Винительный падеж](/notes/accusative_case/accusative_index.md)|
 |[Genitive case / Родительней падеж](/notes/genitive_case/genitive_index.md)|
 |[Instrumental case / Творительный падеж](/notes/instrumental_case/instrumental_index.md)|
+|[Prepositional case / Предложный падеж](/notes/prepositional_case/prepositional_index.md)|
 
 | Grammar Topics |
 | --- |
@@ -20,6 +21,7 @@ Personal Russian language learning repository which contains textbooks and notes
 |[Gerunds / депричастия](/notes/other_topics/revision_2023_03_21.md)|
 |[Expressions of concessionary relations (хотя, несмотря на, несмотря на то что)](/notes/other_topics/revision_2023_03_15.md)|
 |[Spelling rules](/notes/other_topics/spelling_rules.md)|
+|[Usage: чуть не, смотри не](/notes/other_topics/revision_2023_06_22.md)|
 
 ## Additional 
 

@@ -22,6 +22,7 @@ Personal Russian language learning repository which contains textbooks and notes
 |[Expressions of concessionary relations (хотя, несмотря на, несмотря на то что)](/notes/other_topics/revision_2023_03_15.md)|
 |[Spelling rules](/notes/other_topics/spelling_rules.md)|
 |[Usage: чуть не, смотри не](/notes/other_topics/revision_2023_06_22.md)|
+|[смотреть, видеть, слышать, слушать](/notes/other_topics/revision_2023_07_13.md)|
 
 ## Additional 
 

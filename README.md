@@ -23,6 +23,10 @@ Personal Russian language learning repository which contains textbooks and notes
 |[Spelling rules](/notes/other_topics/spelling_rules.md)|
 |[Usage: чуть не, смотри не](/notes/other_topics/revision_2023_06_22.md)|
 |[смотреть, видеть, слышать, слушать](/notes/other_topics/revision_2023_07_13.md)|
+|[Perfective and Imperfective tenses](/notes/other_topics/perfective_imperfective.md)|
+|[the stem каз](/notes/other_topics/kaz.md)|
+
+
 
 ## Additional 
 

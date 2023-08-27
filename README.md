@@ -25,6 +25,7 @@ Personal Russian language learning repository which contains textbooks and notes
 |[смотреть, видеть, слышать, слушать](/notes/other_topics/revision_2023_07_13.md)|
 |[Perfective and Imperfective tenses](/notes/other_topics/perfective_imperfective.md)|
 |[verbs казать + казывать](/notes/other_topics/kaz.md)|
+|[квалификация предмета (является, представляет собой)](/notes/other_topics/qualification_of_objects.md)|
 
 
 

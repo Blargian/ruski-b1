@@ -26,6 +26,7 @@ Personal Russian language learning repository which contains textbooks and notes
 |[Perfective and Imperfective tenses](/notes/other_topics/perfective_imperfective.md)|
 |[verbs казать + казывать](/notes/other_topics/kaz.md)|
 |[квалификация предмета (является, представляет собой)](/notes/other_topics/qualification_of_objects.md)|
+|[Usage of за in either prepositional or accusative case](/notes/other_topics/za.md)|
 
 
 

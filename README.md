@@ -34,6 +34,7 @@ Personal Russian language learning repository which contains textbooks and notes
 ## Additional 
 
 [Verbs and question words](/notes/verbs_with_cases.xlsx)
+
 [Idioms and sayings](/notes/idioms.md)
 
 

@@ -28,6 +28,7 @@ Personal Russian language learning repository which contains textbooks and notes
 |[квалификация предмета (является, представляет собой)](/notes/other_topics/qualification_of_objects.md)|
 |[Usage of за in either prepositional or accusative case](/notes/other_topics/za.md)|
 |[Verbs - to begin, to continue, to end (СВ и НСВ)](/notes/other_topics/начать_продолжать_закончить.md)|
+|[Характер](/notes/other_topics/character.md)|
 
 
 

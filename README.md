@@ -29,6 +29,7 @@ Personal Russian language learning repository which contains textbooks and notes
 |[Usage of за in either prepositional or accusative case](/notes/other_topics/za.md)|
 |[Verbs - to begin, to continue, to end (СВ и НСВ)](/notes/other_topics/начать_продолжать_закончить.md)|
 |[Характер](/notes/other_topics/character.md)|
+|[краткие прилигательные](/notes/other_topics/short_forms.md)|
 
 
 

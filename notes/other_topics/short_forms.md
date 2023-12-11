@@ -21,9 +21,9 @@ Short adjectives - short adjectives. Adjectives can be shortened sometimes and h
 </tbody>
 </table>
 
-For reference on this topic see 
-[Poexali 2.2 pg 70](https://github.com/Blargian/ruski-b1/blob/master/textbooks/%D0%BF%D0%BE%D0%B5%D1%85%D0%B0%D0%BB%D0%B8_2_2.pdf)
-[placeholder]()
+For reference on this topic see: <br>
+[Poexali 2.2 pg 70](https://github.com/Blargian/ruski-b1/blob/master/textbooks/%D0%BF%D0%BE%D0%B5%D1%85%D0%B0%D0%BB%D0%B8_2_2.pdf) <br>
+[Гордейчук учебник](https://github.com/Blargian/ruski-b1/textbooks/Краткие_прилагательные_Гордейчук.pdf) <br>
 [Unlocking Russian article](https://unlockingrussian.com/2020/10/03/the-lowdown-on-long-and-shortform-adjectives-in-russian/)
 
 ## Comparisons between the two forms

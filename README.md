@@ -14,7 +14,7 @@ Personal Russian language learning repository which contains textbooks and notes
 |[Instrumental case / Творительный падеж](/notes/instrumental_case/instrumental_index.md)|
 |[Prepositional case / Предложный падеж](/notes/prepositional_case/prepositional_index.md)|
 
-| Grammar Topics |
+| Grammar Topics (ТРКИ1) |
 | --- |
 |[Verbs of motion / глаголы движения](/notes/verbs_of_motion/verbs_of_motion_index.md)|
 |[Formation of adverbs / Образование деепричастий](/notes/other_topics/revision_2023_03_15.md)|

@@ -33,7 +33,7 @@ For reference on this topic see: <br>
 3. `full form:` - Он весёлый. (in general he is cheerful) `short form:` - Он весел (he looks cheerful).
 4. `full form:` - ОнОна очень ленивая. (as a person she is lazy) `short form:` - Она очень ленива в классе. (only in class)
 
-## Commonly short forms and question words
+## Commonly used short forms and question words
 
 <table>
 <thead>

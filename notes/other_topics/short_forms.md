@@ -32,3 +32,52 @@ For reference on this topic see: <br>
 2. `full form:` - Мы должны ответить на этот трудный вопрос. `short form:` - Этот вопрос для нас труден (subjective).
 3. `full form:` - Он весёлый. (in general he is cheerful) `short form:` - Он весел (he looks cheerful).
 4. `full form:` - ОнОна очень ленивая. (as a person she is lazy) `short form:` - Она очень ленива в классе. (only in class)
+
+## Commonly short forms and question words
+
+<table>
+<thead>
+  <tr>
+    <th>Short form</th>
+    <th>Question word</th>
+    <th>Examples</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>полон </td>
+    <td>чего</td>
+    <td>Весенний лес полон радостного птичьего щебетания</td>
+  </tr>
+  <tr>
+    <td>готов</td>
+    <td>к чему</td>
+    <td>Готова к контрольной?</td>
+  </tr>
+  <tr>
+    <td>уверен<br>известен</td>
+    <td>в чем</td>
+    <td>я полностью уверен в себе.<br>Проект «Норд Стрим» всем хорошо известен, в том числе и в Финляндии<br></td>
+  </tr>
+  <tr>
+    <td>знаком</td>
+    <td>с кем / с чем</td>
+    <td>я знаком со многими учеными.</td>
+  </tr>
+  <tr>
+    <td>богат<br>беден<br>горд</td>
+    <td>чем</td>
+    <td>Он богат знаниями, но не деньгами<br>Он беден знаниями, но богат опытом<br>Он горден своими достижениями</td>
+  </tr>
+  <tr>
+    <td>дорог<br>известен</td>
+    <td>кому</td>
+    <td>Он дорог своей семье<br>Он известен всему миру своими научными открытиями<br></td>
+  </tr>
+  <tr>
+    <td>сердит<br>похож</td>
+    <td>на кого</td>
+    <td>Он сердит на своего друга за то, что тот опоздал.<br>Он похож на своего отца<br></td>
+  </tr>
+</tbody>
+</table>

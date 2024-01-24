@@ -30,6 +30,7 @@ Personal Russian language learning repository which contains textbooks and notes
 |[Verbs - to begin, to continue, to end (СВ и НСВ)](/notes/other_topics/начать_продолжать_закончить.md)|
 |[Характер](/notes/other_topics/character.md)|
 |[краткие прилигательные](/notes/other_topics/short_forms.md)|
+|[usage of себе](/notes/other_topics/себе.md)|
 
 
 

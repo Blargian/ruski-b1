@@ -1,5 +1,7 @@
 # Endings
 
+The endings are explained really nicely (here)[https://burupo.com/en/accusative-case-russian-endings/]
+
 In the genitive case the question words are 
 - `что` (same as nominative)
 - `кого` (same as genitive)

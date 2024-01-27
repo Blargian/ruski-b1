@@ -41,4 +41,6 @@ Personal Russian language learning repository which contains textbooks and notes
 
 [Idioms and sayings](/notes/idioms.md)
 
+[softsign words by gender](/notes/softsign_words.md)
+
 

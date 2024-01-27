@@ -6,5 +6,5 @@
 
 | Page | Description |
 | --- | --- |
-| [page one](/notes/accusative_case/za_and_na.md) | some description |
+| [Endings](/notes/accusative_case/endings.md) | Description of declenations in the accusative |
 | [page two](/notes/accusative_case/revision_2023_05_18.md) | some description |

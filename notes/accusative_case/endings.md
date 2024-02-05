@@ -22,4 +22,4 @@ For feminine, whether animate or animate the endings are
 - `ая → ую` 
 - `яя → юю`
 
-For Masculine, Neuter and Feminine Plurals, they all get the [genitive plural](https://github.com/Blargian/ruski-b1/blob/master/notes/genitive_case/endings.md)
+For Masculine, Neuter and Feminine Plurals, they all get the [genitive plural](https://github.com/Blargian/ruski-b1/blob/master/notes/genitive_case/endings.md) (if they are animate. i.e) answers the question кого. Otherwise the endings will be the same as the nominative plural). 

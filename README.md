@@ -32,6 +32,7 @@ Personal Russian language learning repository which contains textbooks and notes
 |[краткие прилигательные](/notes/other_topics/short_forms.md)|
 |[Reflexive pronoun себя](/notes/other_topics/себе.md)|
 |[Глаголы на -ся](/notes/other_topics/глаголы_на_ся.md)|
+|[Usage of ли](/notes/other_topics/ли.md)|
 
 
 

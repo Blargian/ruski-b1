@@ -29,7 +29,7 @@ Personal Russian language learning repository which contains textbooks and notes
 |[Usage of за in either prepositional or accusative case](/notes/other_topics/za.md)|
 |[Verbs - to begin, to continue, to end (СВ и НСВ)](/notes/other_topics/начать_продолжать_закончить.md)|
 |[Характер](/notes/other_topics/character.md)|
-|[Краткие прилигательные](/notes/other_topics/short_forms.md)|
+|[Краткие прилагательные](/notes/other_topics/short_forms.md)|
 |[Reflexive pronoun себя](/notes/other_topics/себе.md)|
 |[Глаголы на -ся](/notes/other_topics/глаголы_на_ся.md)|
 |[Usage of ли, не + глагол + ли, как бы не](/notes/other_topics/ли.md)|

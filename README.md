@@ -22,17 +22,17 @@ Personal Russian language learning repository which contains textbooks and notes
 |[Expressions of concessionary relations (хотя, несмотря на, несмотря на то что)](/notes/other_topics/revision_2023_03_15.md)|
 |[Spelling rules](/notes/other_topics/spelling_rules.md)|
 |[Usage: чуть не, смотри не](/notes/other_topics/revision_2023_06_22.md)|
-|[смотреть, видеть, слышать, слушать](/notes/other_topics/revision_2023_07_13.md)|
+|[Смотреть, видеть, слышать, слушать](/notes/other_topics/revision_2023_07_13.md)|
 |[Perfective and Imperfective tenses](/notes/other_topics/perfective_imperfective.md)|
-|[verbs казать + казывать](/notes/other_topics/kaz.md)|
-|[квалификация предмета (является, представляет собой)](/notes/other_topics/qualification_of_objects.md)|
+|[Verbs казать + казывать](/notes/other_topics/kaz.md)|
+|[Квалификация предмета (является, представляет собой)](/notes/other_topics/qualification_of_objects.md)|
 |[Usage of за in either prepositional or accusative case](/notes/other_topics/za.md)|
 |[Verbs - to begin, to continue, to end (СВ и НСВ)](/notes/other_topics/начать_продолжать_закончить.md)|
 |[Характер](/notes/other_topics/character.md)|
-|[краткие прилигательные](/notes/other_topics/short_forms.md)|
+|[Краткие прилигательные](/notes/other_topics/short_forms.md)|
 |[Reflexive pronoun себя](/notes/other_topics/себе.md)|
 |[Глаголы на -ся](/notes/other_topics/глаголы_на_ся.md)|
-|[Usage of ли](/notes/other_topics/ли.md)|
+|[Usage of ли, не + глагол + ли, как бы не](/notes/other_topics/ли.md)|
 
 
 

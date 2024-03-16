@@ -8,3 +8,4 @@
 | --- | --- |
 | [Endings](/notes/accusative_case/endings.md) | Description of declenations in the accusative |
 | [page two](/notes/accusative_case/revision_2023_05_18.md) | some description |
+| [под](/notes/accusative_case/под_usage.md) | под - когда Творительный, когда Внительный? |

@@ -34,6 +34,7 @@ Personal Russian language learning repository which contains textbooks and notes
 |[Глаголы на -ся](/notes/other_topics/глаголы_на_ся.md)|
 |[Usage of ли, не + глагол + ли, как бы не](/notes/other_topics/ли.md)|
 |[Через и после](/notes/other_topics/через_после.md)|
+|[сколько, на сколько, через сколько времени](/notes/other_topics/сколько_времени.md)|
 
 
 

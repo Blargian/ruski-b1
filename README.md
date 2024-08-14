@@ -37,6 +37,7 @@ Personal Russian language learning repository which contains textbooks and notes
 |[сколько, на сколько, через сколько времени](/notes/other_topics/сколько_времени.md)|
 |[я хочу, чтобы... ](/notes/other_topics/чтобы.md)|
 |[«как раз» и «именно»](/notes/other_topics/какраз_именно.md)|
+|[usage of для, на, за](/notes/other_topics/для_на_за.md)|
 
 
 

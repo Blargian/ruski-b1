@@ -14,7 +14,7 @@ Personal Russian language learning repository which contains textbooks and notes
 |[Instrumental case / Творительный падеж](/notes/instrumental_case/instrumental_index.md)|
 |[Prepositional case / Предложный падеж](/notes/prepositional_case/prepositional_index.md)|
 
-| Grammar Topics (ТРКИ1) |
+| Grammar Topics (ТРКИ 1 + 2) |
 | --- |
 |[Verbs of motion / глаголы движения](/notes/verbs_of_motion/verbs_of_motion_index.md)|
 |[Formation of adverbs / Образование деепричастий](/notes/other_topics/revision_2023_03_15.md)|
@@ -39,8 +39,9 @@ Personal Russian language learning repository which contains textbooks and notes
 |[«как раз» и «именно»](/notes/other_topics/какраз_именно.md)|
 |[usage of для, на, за](/notes/other_topics/для_на_за.md)|
 
-
-
+| Other Topics |
+| --- |
+|[Евгений Онегин](/notes/other_topics/onegin.md)|
 
 ## Additional 
 

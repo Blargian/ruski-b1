@@ -1,4 +1,4 @@
-# Russian Language - B1 
+# Russian Language - ТРКИ-2 (B2)
 
 ![nestingdolls2](https://user-images.githubusercontent.com/41984034/228809962-148f4725-de81-4542-902a-bd6091480092.png)   
 
@@ -14,7 +14,7 @@ Personal Russian language learning repository which contains textbooks and notes
 |[Instrumental case / Творительный падеж](/notes/instrumental_case/instrumental_index.md)|
 |[Prepositional case / Предложный падеж](/notes/prepositional_case/prepositional_index.md)|
 
-| Grammar Topics (ТРКИ1) |
+| Grammar Topics (ТРКИ 1 + 2) |
 | --- |
 |[Verbs of motion / глаголы движения](/notes/verbs_of_motion/verbs_of_motion_index.md)|
 |[Formation of adverbs / Образование деепричастий](/notes/other_topics/revision_2023_03_15.md)|
@@ -36,9 +36,13 @@ Personal Russian language learning repository which contains textbooks and notes
 |[Через и после](/notes/other_topics/через_после.md)|
 |[сколько, на сколько, через сколько времени](/notes/other_topics/сколько_времени.md)|
 |[я хочу, чтобы... ](/notes/other_topics/чтобы.md)|
+|[«как раз» и «именно»](/notes/other_topics/какраз_именно.md)|
+|[usage of для, на, за](/notes/other_topics/для_на_за.md)|
+|[причастие](/notes/other_topics/причастие.md)|
 
-
-
+| Other Topics |
+| --- |
+|[Евгений Онегин](/notes/other_topics/onegin.md)|
 
 ## Additional 
 
